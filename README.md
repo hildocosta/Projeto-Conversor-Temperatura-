@@ -1,5 +1,5 @@
 
-🌡 <h1>Conversor de Temperatura Fahrenheit para Celsius em Java</h1> 🌡
+<h1>🌡 Conversor de Temperatura Fahrenheit para Celsius em Java 🌡</h1>
 
 💻 Este é um projeto de conversão de temperatura de graus Fahrenheit para graus Celsius em Java. O programa recebe a temperatura em Fahrenheit como entrada e converte-a em Celsius. 💻
 
